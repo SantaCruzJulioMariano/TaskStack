@@ -1,5 +1,5 @@
 import './App.css';
-import Billboard from './Billboard.js';
+import Billboard from './components/Billboard.js';
 
 function App() {
   return (
