@@ -1,5 +1,19 @@
 .List-title{
-    color: darkorchid;
+    color: rgb(18, 192, 61);
+    margin: 10px;
+}
+
+.List-description{
+    margin: 0;
+}
+
+.List-tasks{
+    background-color: rgb(30, 210, 150);
+}
+
+.List-body{
+    background-color: rgb(8, 105, 81);
+    
 }
 
 .active{
